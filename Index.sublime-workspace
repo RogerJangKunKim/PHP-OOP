@@ -1,0 +1,363 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"functi",
+				"create_function"
+			],
+			[
+				"e",
+				"echo	echo \"…\""
+			],
+			[
+				"else",
+				"elseif	elseif …"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"top",
+				"padding-top"
+			],
+			[
+				"left",
+				"padding-left"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"sessio",
+				"session_start"
+			],
+			[
+				"data",
+				"database"
+			],
+			[
+				"backr",
+				"background-color"
+			],
+			[
+				"filter_i",
+				"filter_input"
+			],
+			[
+				"for",
+				"for	Attr"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"co",
+				"connection"
+			],
+			[
+				"my",
+				"myName"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"repea",
+				"repeat-y"
+			],
+			[
+				"bakc",
+				"background-color"
+			],
+			[
+				"l",
+				"link	Tag"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"backgro",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 114.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/blog/register.php",
+		"/C/xampp/htdocs/blog/post.php",
+		"/C/xampp/htdocs/blog/login.php",
+		"/C/xampp/htdocs/blog/view/footer.php",
+		"/C/xampp/htdocs/blog/model/Database.php",
+		"/C/xampp/htdocs/blog/model/config.php",
+		"/C/xampp/htdocs/blog/controller/logout-user.php",
+		"/C/xampp/htdocs/blog/view/navigation.php",
+		"/C/xampp/htdocs/blog/controller/create-user.php",
+		"/C/xampp/htdocs/blog/controller/create-post.php",
+		"/C/xampp/htdocs/blog/view/form.php",
+		"/C/xampp/htdocs/blog/index.php",
+		"/C/xampp/htdocs/blog/controller/login-verify.php",
+		"/C/xampp/htdocs/blog/controller/login-user.php",
+		"/C/xampp/htdocs/blog/view/login-form.php",
+		"/C/xampp/htdocs/blog/view/register-form.php",
+		"/C/xampp/htdocs/blog/controller/create-db.php",
+		"/C/xampp/htdocs/blog/view/header.php",
+		"/C/xampp/htdocs/blog/css/main1.css",
+		"/C/xampp/htdocs/blog/controller/read-post.php",
+		"/C/Users/Student/Desktop/Portfolio/index1.html",
+		"/C/Users/Student/Desktop/Test Background/dragon.jpg",
+		"/C/Users/Student/Desktop/Portfolio/index.html",
+		"/C/Users/Student/Desktop/Portfolio/css/main1.css",
+		"/C/xampp/htdocs/blog/model/database.php",
+		"/C/xampp/htdocs/blog/controller/test",
+		"/C/xampp/htdocs/blog/controller/test.php",
+		"/C/xampp/htdocs/lucatest/test",
+		"/C/xampp/htdocs/Test/Test.php",
+		"/C/xampp/htdocs/blog/class.php",
+		"/C/xampp/htdocs/phpbasics/css/main.css",
+		"/C/xampp/htdocs/phpbasics/index.php",
+		"/C/xampp/htdocs/Quiz/Index.php",
+		"/C/xampp/htdocs/php basics/index.php",
+		"/C/Users/Student/Desktop/Test/css/main.css",
+		"/C/Users/Student/Desktop/Test/index.html",
+		"/C/Users/Student/Desktop/Portfolio/js/black.js",
+		"/C/Users/Student/Desktop/Portfolio/css/bootstrap.min.css",
+		"/C/Users/Student/Desktop/Portfolio/css/main.css",
+		"/C/Users/Student/Desktop/Portfolio/css/large.css",
+		"/C/Users/Student/Desktop/Portfolio/css/medium.css",
+		"/C/Users/Student/Desktop/Portfolio/css/small.css",
+		"/C/Users/Student/Desktop/Portfolio/js/waypoints.min.js",
+		"/C/Users/Student/Desktop/Portfolio/css/bootstrap.css",
+		"/C/Users/Student/Desktop/main.css",
+		"/C/Users/Student/Desktop/index.html",
+		"/C/Users/Student/Desktop/Portfolio/js/jquery-1.10.2.min.js",
+		"/C/Users/Student/Desktop/Portfolio/css/style.css"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"#",
+			"#285e8e",
+			"#357ebd",
+			"#428bca",
+			"#3071a9",
+			"maps",
+			"nav1",
+			".quote",
+			"block"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "Index.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

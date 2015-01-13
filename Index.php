@@ -15,7 +15,7 @@
 			return "{$this->color}" . "or" . "{$this->dye}";
 		}
 	}
-	$hair = new hair("black", "blue", "wash");
+	$hair1 = new hair("black", "blue", "wash");
 	print "should hair be {$hair1->getHair()}?";
 
 
